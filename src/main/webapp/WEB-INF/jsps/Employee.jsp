@@ -77,6 +77,7 @@
 					<s:option value="America">America</s:option>
 					<s:option value="South Africa">South Africa</s:option>
 					<s:option value="Sri Lanka">Sri Lanka</s:option>
+					<s:option value="Viet Nam">Viet Nam</s:option>
 				</s:select>
 			</div>
 				
